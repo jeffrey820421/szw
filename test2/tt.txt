@@ -1,0 +1,10 @@
+19:21  up 1 day,  9:10, 8 users, load averages: 1.87 2.12 2.20
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+shaowen  console  -                二10   33:10 -
+shaowen  s000     -                二10       - w
+shaowen  s001     -                二10   31:58 /bin/bash
+shaowen  s002     -                二10   33:09 -bash
+shaowen  s003     -                二10   33:09 -bash
+shaowen  s004     -                二10   33:09 -bash
+shaowen  s006     -                二10   33:09 -bash
+shaowen  s007     -                二10   33:09 -bash
